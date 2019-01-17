@@ -1,2 +1,5 @@
 # hello-world
-my Github tutorial
+
+This is my GitHub Tutorial. 
+
+Ayden Chuang
